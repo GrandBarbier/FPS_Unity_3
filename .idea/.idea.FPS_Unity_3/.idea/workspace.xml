@@ -12,11 +12,14 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/scripts/MouseLook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Crossbow.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/scripts/MouseLook.cs" />
+        <option value="$PROJECT_DIR$/Assets/LeelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/EnemySpawner.cs" />
       </list>
     </option>
   </component>
@@ -69,6 +72,8 @@
       <option name="presentableId" value="Default" />
       <updated>1603312351730</updated>
       <workItem from="1603312359521" duration="2158000" />
+      <workItem from="1603365360033" duration="512000" />
+      <workItem from="1603365883637" duration="15000" />
     </task>
     <servers />
   </component>
