@@ -333,7 +333,7 @@ CharacterController:
   serializedVersion: 2
   m_Height: 3.8
   m_Radius: 0.6
-  m_SlopeLimit: 45
+  m_SlopeLimit: 10
   m_StepOffset: 0.3
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0.001
@@ -353,7 +353,7 @@ MonoBehaviour:
   controller: {fileID: 925236177641225471}
   speed: 15
   gravity: -19.5
-  jumpHeight: 2.5
+  jumpHeight: 2
   acceleration: 200
   airControl: 1.5
   groundCheck: {fileID: 925236176657523254}

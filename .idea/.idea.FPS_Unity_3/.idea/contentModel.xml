@@ -27,13 +27,7 @@
             </e>
           </e>
         </e>
-        <e p="Enemy.cs" t="Include" />
         <e p="Features" t="Include">
-          <e p="AxelF" t="Include">
-            <e p="VERSION.txt" t="Include" />
-          </e>
-        </e>
-        <e p="Features - Copie" t="Include">
           <e p="AxelF" t="Include">
             <e p="VERSION.txt" t="Include" />
           </e>
@@ -59,6 +53,7 @@
         <e p="scripts" t="Include">
           <e p="Crossbow.cs" t="Include" />
           <e p="CrossbowBolt.cs" t="Include" />
+          <e p="Enemy.cs" t="Include" />
           <e p="MouseLook.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />
         </e>

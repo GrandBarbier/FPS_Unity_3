@@ -7,7 +7,7 @@ public class Enemy : MonoBehaviour
     public GameObject player;
     private NavMeshAgent agent;
 
-    public int health = 3;
+    public float health = 3;
     // Start is called before the first frame update
     void Start()
     {
@@ -20,11 +20,9 @@ public class Enemy : MonoBehaviour
         agent = GetComponent<NavMeshAgent>();
     }
 
-    void TakeDamage()
+    public void TakeDamage(float damage)
     {
-        health = health - 1;
-
-        
+        health -= damage;
     }
 
     void Update()

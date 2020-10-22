@@ -11,12 +11,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/CrossbowBolt.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/MouseLook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/scripts/MouseLook.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/CrossbowBolt.cs" />
       </list>
     </option>
   </component>
@@ -69,6 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603312351730</updated>
       <workItem from="1603312359521" duration="2158000" />
+      <workItem from="1603365463250" duration="625000" />
     </task>
     <servers />
   </component>

@@ -89,7 +89,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1934024923289789043}
-  m_Material: {fileID: 13400000, guid: a9dca3208f524a048afbc7d1ff960ee1, type: 2}
+  m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
@@ -122,8 +122,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7980399690953449266}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -0.010206, y: -0.000000049065, z: 0.033993}
+  m_LocalScale: {x: 0.49343, y: 0.49343, z: 0.49343}
   m_Children:
   - {fileID: 6533307181444348878}
   m_Father: {fileID: 0}
@@ -157,3 +157,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f9c0aa6e752f0848bff65ecc7e6d01f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damage: 1
