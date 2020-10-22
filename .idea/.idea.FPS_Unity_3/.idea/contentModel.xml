@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Cynth\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Cynth\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_FPS_Unity_3.-190704457.00" t="ExcludeRecursive" />
-    <e p="D:\Unity\FPS_Unity_3" t="IncludeRecursive">
+    <e p="C:\Users\luffe\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\luffe\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_FPS_Unity_3.2034966043.00" t="ExcludeRecursive" />
+    <e p="D:\COURS\Unity\Git\FPS_Unity_3" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Conifers [BOTD]" t="Include">
@@ -54,14 +54,12 @@
           <e p="Crossbow.cs" t="Include" />
           <e p="CrossbowBolt.cs" t="Include" />
           <e p="Enemy.cs" t="Include" />
-<<<<<<< HEAD
-=======
           <e p="EnemySpawner" t="Include">
             <e p="EnemySpawner.cs" t="Include" />
             <e p="LeelManager.cs" t="Include" />
           </e>
->>>>>>> main
           <e p="MouseLook.cs" t="Include" />
+          <e p="PlayerHealth.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />
         </e>
       </e>
