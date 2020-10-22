@@ -13,14 +13,23 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/scripts/CrossbowBolt.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/MouseLook.cs" root0="FORCE_HIGHLIGHTING" />
+<<<<<<< HEAD
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+=======
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Crossbow.cs" root0="FORCE_HIGHLIGHTING" />
+>>>>>>> main
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/scripts/MouseLook.cs" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Assets/scripts/Enemy.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/CrossbowBolt.cs" />
+=======
+        <option value="$PROJECT_DIR$/Assets/LeelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/EnemySpawner.cs" />
+>>>>>>> main
       </list>
     </option>
   </component>
@@ -73,7 +82,12 @@
       <option name="presentableId" value="Default" />
       <updated>1603312351730</updated>
       <workItem from="1603312359521" duration="2158000" />
+<<<<<<< HEAD
       <workItem from="1603365463250" duration="625000" />
+=======
+      <workItem from="1603365360033" duration="512000" />
+      <workItem from="1603365883637" duration="15000" />
+>>>>>>> main
     </task>
     <servers />
   </component>
